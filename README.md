@@ -1,0 +1,2 @@
+# OSPFv3-Configuration---IPv6-Dynamic-Routing-Implementation
+Implementation OSPFv3 dynamic routing protocol using Cisco devices. This project demonstrates how to configure OSPF to work with IPv6 addresses, enabling automatic route discovery and convergence across multiple IPv6 subnets. Features multi-area OSPF design, link-state advertisements for IPv6, and inter-router communication using IPv6 addressing
